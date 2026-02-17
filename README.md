@@ -18,3 +18,6 @@ Generates a 12 character strong password!
 
 ## 👩‍💻 Made by
 **KChavhan17** | 4th Semester Student 🔥
+
+##  (⁠✷⁠‿⁠✷⁠)✈️Live Demo
+🔗https://kchavhan17.github.io/Password-Generator-/
